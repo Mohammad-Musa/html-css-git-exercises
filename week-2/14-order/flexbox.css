@@ -1,5 +1,39 @@
 .countries {
   display: flex;
+
+
 }
 
 /* Add your own CSS code below */
+
+/* first countries*/
+.countries--first .country--brazil{
+  order: 1;
+}
+
+/*second countries */
+.countries--second .country--laos{
+  order: -1;
+}
+.countries--second .country--ethiopia{
+  order: -2;
+}
+
+.countries--second .country--croatia{
+  order: -3;
+}
+
+/* third countries */
+
+.countries--third .country--brazil{
+  order: 2;
+}
+.countries--third .country--uganda{
+  order: -2;
+}
+.countries--third .country--laos{
+  order: -1;
+}
+.countries--third .country--croatia{
+  order: 1;
+}
