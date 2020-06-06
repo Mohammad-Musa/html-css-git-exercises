@@ -172,3 +172,7 @@ button:focus {
   max-width: 128px;
   height: auto;
 }
+
+.cus-div{
+margin-bottom: 20px;
+}
