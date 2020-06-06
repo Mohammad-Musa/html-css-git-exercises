@@ -173,6 +173,13 @@ button:focus {
   height: auto;
 }
 
+#ch-lbl{
+  display: list-item;
+  list-style-type: none;
+  margin-bottom: 8px;
+  
+}
+
 .cus-div{
 margin-bottom: 20px;
 }
